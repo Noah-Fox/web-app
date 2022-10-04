@@ -1,0 +1,12 @@
+.homePage{
+    color: black;
+    text-align: center;
+    background-color: lightblue;
+    background-size: 100% 100%;
+    height: 100vh;
+}
+
+.navBtn{
+    text-decoration: none;
+    color: black;
+}
